@@ -87,10 +87,3 @@ Executando o script SQL manualmente (opcional)
 ```sql
 SOURCE C:/Users/user/Desktop/Projeto-Cadastro-de-Supermercado-main/projeto/setup.sql;
 ```
-
-Próximos passos sugeridos
-- Criar um arquivo `.env.example` e adaptar `database.py` para usar `python-dotenv` (facilita configuração).
-- Adicionar logs em arquivo para diagnosticar erros em produção.
-- Gerar executável com `PyInstaller` para distribuição sem Python instalado.
-
-Se quiser, eu atualizo `database.py` para ler um `.env` automaticamente e adiciono `.env.example` com valores padrão — quer que eu faça isso agora?
