@@ -1,11 +1,3 @@
-# Projeto Cadastro de Supermercado
-
-Aplicação PySide6 + MySQL para gerenciar produtos de supermercado (CRUD) e categorias.
-
-Pré-requisitos
-- Python 3.8+
-- MySQL server
-
 # Projeto: Cadastro de Supermercado
 
 Aplicação desktop em Python (PySide6) com MySQL para gerenciar um catálogo de produtos de supermercado.
